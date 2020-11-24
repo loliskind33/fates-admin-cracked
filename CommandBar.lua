@@ -161,7 +161,7 @@ local function noti(title, text, duration)
     end
 
     local function GC()
-    loadstring(game:HttpGet"https://raw.githubusercontent.com/cool6901/fates-admin/master/Commands.lua")()
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/davidkra230/fates-admin-cracked/master/Commands.lua")()
     end
     
     local function NoclipCurrent()
@@ -314,7 +314,7 @@ local function noti(title, text, duration)
     end
 
     local function GC()
-    loadstring(game:HttpGet"https://raw.githubusercontent.com/cool6901/fates-admin/master/Commands.lua")()
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/davidkra230/fates-admin-cracked/master/Commands.lua")()
     end
 
     local function Fling(Player)
