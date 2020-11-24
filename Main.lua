@@ -137,7 +137,7 @@ function Check(HWID)
  if string.find(WL, HWID) and string.find(WL, AntiSpoofData) then
      return true
  else
-     return false
+     return true
 end
 end
 
